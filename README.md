@@ -19,8 +19,7 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git](https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git)
 
-### 2. Repository ko "Pro" dikhane ke liye Add-ons
-
+### 2. Add-ons to make the Repository look "Pro"
 * **About Section:** On the right side of the repository's main page, there is an 'About' section. Add relevant Keywords/Tags there, such as: python, selenium, web-scraping, automation, peoplesoft.
 * **Requirements File:** please make file`requirements.txt` write ths like this.
     ```text
