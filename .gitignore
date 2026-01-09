@@ -1,0 +1,22 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and Virtual Envs
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Scraping Output (Downloads folder ignore karne ke liye agar project folder ke andar ho)
+*.pdf
+*.xlsx
+*.csv
+
+# IDE specific files
+.vscode/
+.idea/
