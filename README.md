@@ -15,7 +15,7 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
 
 ## 🛠️ Installation
 
-## 1. Clone the repository:
+ 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git](https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git)
 ### 2. Repository ko "Pro" dikhane ke liye Add-ons
