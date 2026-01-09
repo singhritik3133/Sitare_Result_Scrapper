@@ -43,3 +43,72 @@ The author is not responsible for any misuse of this script.
 Ritik Singh  
 GitHub: https://github.com/singhritik3133
 
+## ⚙️ Configuration
+
+Before running the project, make sure the following environment
+variables are properly configured:
+
+| Variable Name | Description |
+|--------------|------------|
+| SITARE_USER  | SITARE portal username |
+| SITARE_PASS  | SITARE portal password |
+
+These variables are required for secure authentication.
+
+
+## 🧯 Error Handling
+
+The script includes basic error handling to ensure that:
+- Failure for one roll number does not stop execution
+- Errors are printed with meaningful messages
+- Missing or invalid data is safely skipped
+
+
+## 🚧 Future Improvements
+
+- Add CAPTCHA handling using third-party services
+- Introduce multithreading for faster scraping
+- Add database support (MySQL / MongoDB)
+- Build a simple web dashboard for result visualization
+- Add unit tests for PDF extraction logic
+
+## ⚖️ Ethical Use
+
+This project respects responsible scraping practices.
+Users are advised to:
+- Use the script only on accounts they own or are authorized to access
+- Avoid excessive requests that may overload the server
+- Comply with the website’s terms of service
+
+## ❓ FAQ
+
+**Q: Does this project bypass CAPTCHA?**  
+A: No, CAPTCHA-based authentication is not supported.
+
+**Q: Can I scrape results for multiple students?**  
+A: Yes, the script supports multiple roll numbers.
+
+**Q: Is this project safe to use?**  
+A: Yes, if used responsibly and only for educational purposes.
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Steps to contribute:
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Open a pull request
+
+## 🙏 Acknowledgements
+
+- Selenium documentation
+- Python open-source community
+- PDFPlumber contributors
+
+## 📌 Project Status
+
+✅ Actively maintained  
+🚧 Open for improvements  
+📈 Suitable for academic and learning purposes
