@@ -1,4 +1,4 @@
-# 🎓 Sitare PeopleSoft Result Scraper
+# 🎓 SRMU PeopleSoft Result Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Selenium](https://img.shields.io/badge/Library-Selenium-green.svg)
@@ -15,9 +15,10 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
 
 ## 🛠️ Installation
 
- 1. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git](https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git)
+
 ### 2. Repository ko "Pro" dikhane ke liye Add-ons
 
 * **About Section:** Repository ke main page par right side mein 'About' section hota hai. Wahan achhe **Keywords/Tags** daalein jaise: `python`, `selenium`, `web-scraping`, `automation`, `peoplesoft`.
