@@ -11,10 +11,10 @@ import pdfplumber
 
 # ---------------- CONFIG ----------------
 LOGIN_URL = "https://eyojan.srmu.ac.in/psc/ps/?cmd=login&languageCd=ENG"
-PASSWORD = "123" 
-TERM_VALUE = "2501" 
-START_ID = 202510101200001
-END_ID   = 202510101200050 # Range yahan se badha lein
+PASSWORD = "Password" 
+TERM_VALUE = "anything" 
+START_ID = "start_id"
+END_ID   = "end_id" # Range yahan se badha lein
 
 downloads_path = os.path.join(os.path.expanduser("~"), "Downloads")
 
