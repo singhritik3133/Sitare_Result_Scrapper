@@ -18,3 +18,26 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git](https://github.com/YOUR_USERNAME/SRMU-Result-Scraper.git)
+### 2. Repository ko "Pro" dikhane ke liye Add-ons
+
+* **About Section:** Repository ke main page par right side mein 'About' section hota hai. Wahan achhe **Keywords/Tags** daalein jaise: `python`, `selenium`, `web-scraping`, `automation`, `peoplesoft`.
+* **Requirements File:** Ek file banayein `requirements.txt` naam se aur usme ye likh dein:
+    ```text
+    selenium
+    pandas
+    pdfplumber
+    webdriver-manager
+    openpyxl
+    ```
+    Isse doosre users sirf ek command `pip install -r requirements.txt` se saari libraries install kar payenge.
+* **License:** Ek **MIT License** add karein. GitHub par "Add file" -> "Create new file" karein aur naam `LICENSE` rakhein, fir "Choose a license template" par click karke MIT select karein.
+* **Screenshots:** Agar ho sake toh ek screenshot ya GIF laga dein jisme script terminal par chalti hui dikh rahi ho. Visuals se repo bahut achhi dikhti hai.
+
+### 3. Folder Structure
+Aapka repo kuch aisa dikhna chahiye:
+```text
+├── .gitignore          (Taaki faltu files upload na ho)
+├── LICENSE             (MIT License)
+├── README.md           (Aapka project manual)
+├── main.py             (Aapka asli code)
+└── requirements.txt    (Libraries ki list)
