@@ -21,8 +21,8 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
 
 ### 2. Repository ko "Pro" dikhane ke liye Add-ons
 
-* **About Section:** Repository ke main page par right side mein 'About' section hota hai. Wahan achhe **Keywords/Tags** daalein jaise: `python`, `selenium`, `web-scraping`, `automation`, `peoplesoft`.
-* **Requirements File:** Ek file banayein `requirements.txt` naam se aur usme ye likh dein:
+* **About Section:** On the right side of the repository's main page, there is an 'About' section. Add relevant Keywords/Tags there, such as: python, selenium, web-scraping, automation, peoplesoft.
+* **Requirements File:** please make file`requirements.txt` write ths like this.
     ```text
     selenium
     pandas
@@ -30,12 +30,12 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
     webdriver-manager
     openpyxl
     ```
-    Isse doosre users sirf ek command `pip install -r requirements.txt` se saari libraries install kar payenge.
-* **License:** Ek **MIT License** add karein. GitHub par "Add file" -> "Create new file" karein aur naam `LICENSE` rakhein, fir "Choose a license template" par click karke MIT select karein.
-* **Screenshots:** Agar ho sake toh ek screenshot ya GIF laga dein jisme script terminal par chalti hui dikh rahi ho. Visuals se repo bahut achhi dikhti hai.
+   This allows other users to install all necessary libraries with a single command: pip install -r requirements.txt.
+* **License:** Ek **MIT License** On GitHub, go to "Add file" -> "Create new file," name it LICENSE, then click "Choose a license template" and select MIT.
+* **Screenshots:** If possible, include a screenshot or a GIF showing the script running in the terminal. Visuals make the repo look much more professional.
 
 ### 3. Folder Structure
-Aapka repo kuch aisa dikhna chahiye:
+You can see your page like this 
 ```text
 ├── .gitignore          (Taaki faltu files upload na ho)
 ├── LICENSE             (MIT License)
