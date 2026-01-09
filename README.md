@@ -37,8 +37,8 @@ A powerful automation tool built with **Python** and **Selenium** to scrape acad
 ### 3. Folder Structure
 You can see your page like this 
 ```text
-├── .gitignore          (Taaki faltu files upload na ho)
+├── .gitignore          (To prevent unnecessary files from being uploaded)
 ├── LICENSE             (MIT License)
-├── README.md           (Aapka project manual)
-├── main.py             (Aapka asli code)
-└── requirements.txt    (Libraries ki list)
+├── README.md           (Your project manual)
+├── main.py             (Your actual source code)
+└── requirements.txt    (List of dependencies/libraries)
